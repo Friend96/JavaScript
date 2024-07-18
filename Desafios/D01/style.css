@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #494949;
+}
+
+header{
+    color: white;
+}
+
+main{
+    background-color: white;
+    width: 400px;
+    padding: 5px 5px 10px 5px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+main > p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#imagem{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: aqua;
+    background-position: center center;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+footer{
+    color: white;
+}
+
+footer > p{
+    text-align: center;
+    text-shadow: 1px 1px 5px #00000094;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 5px #00000094;
+}
