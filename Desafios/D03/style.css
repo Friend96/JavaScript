@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #0051ff;
+}
+
+input{
+    margin: 5px 0px 5px 0px;
+}
+
+header{
+    padding: 20px;
+}
+
+header > h1{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 5px #0000008c;
+}
+
+main{
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: white;
+}
+
+footer > p{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 5px #00000098;
+}
