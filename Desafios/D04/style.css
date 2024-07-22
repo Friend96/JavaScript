@@ -25,3 +25,13 @@ footer > p{
     color: white;
     text-shadow: 1px 1px 5px black;
 }
+
+#tabuada{
+    margin-top: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    overflow: hidden;
+    overflow-y: scroll;
+}
