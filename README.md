@@ -8,6 +8,7 @@ São desafios de JavaScript do CursoEmVideo.
  - [Desafio 02 - Verificador de idade](https://github.com/Friend96/JavaScript/tree/main/Desafios/D02)
  - [Desafio 03 - Contador](https://github.com/Friend96/JavaScript/tree/main/Desafios/D03)
  - [Desafio 04 - Tabuada](https://github.com/Friend96/JavaScript/tree/main/Desafios/D04)
+ - [Desafio 05 - Analisador de Números](https://github.com/Friend96/JavaScript/tree/main/Desafios/D05)
 
 ## 🚀Como executar?
 
