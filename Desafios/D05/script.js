@@ -18,6 +18,8 @@ function clicou(){
         x += 1
         tab.appendChild(opção)
     }
+    numero.value = ''
+    numero.focus()
 }
 
 function finalizar(){
